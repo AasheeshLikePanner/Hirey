@@ -2,6 +2,12 @@
 
 This application is a real-time chat platform built using Node.js, TypeScript, and React-Redux. It features user authentication, real-time messaging via Socket.IO, and allows for direct image and video sharing. The app is designed with Material UI for a modern interface and includes additional tools like Axios for API calls, React Toastify for notifications, and Multer for file handling. The backend utilizes NeonDB with Drizzle ORM for data management, secured with JWT and Bcrypt for authentication and encryption.
 
+
+
+
+https://github.com/user-attachments/assets/d873f599-4ede-4db4-bad5-59d7062fa4bb
+
+
 ## Tech Stack
 
 ### Frontend:
@@ -13,6 +19,10 @@ This application is a real-time chat platform built using Node.js, TypeScript, a
 - **React Redux** for global state management
 
 ### Backend:
+
+Uploading Assignment Progress Update.mp4…
+
+
 - **Node.js** with **Express** for server-side logic
 - **Socket.IO** for real-time communication
 - **Multer** for file uploads (images and videos)
